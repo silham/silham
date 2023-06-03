@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @silham
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 🔗 Check my portfolio https://silham.github.io
 - 📫 You can contact me via ilhamshakil@gmail.com
 
 <!---
