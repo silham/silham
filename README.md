@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silham
 - 👀 I’m interested in Web development 
 - 🔗 Check my portfolio https://ilham.me
-- 📫 You can contact me via ilhamshakil@gmail.com
+- 📫 You can contact me via mail@ilham.me
 
 <!---
 silham/silham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
