@@ -22,7 +22,6 @@
 - Developing **AI-powered web utilities** that integrate intelligent analysis and automation.  
 - Building **smart hardware prototypes** combining embedded systems and machine learning.  
 - Learning **MLOps pipelines** for efficient model deployment and scaling.  
-- Growing my business toward the goal of **$10K/month by end of 2025**.
 
 ---
 
