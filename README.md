@@ -101,14 +101,13 @@
 📬 **Reach me at:**  
 - 🌐 Portfolio: [ilham.me](https://ilham.me)  
 - 💼 LinkedIn: [Shakil Ilham](https://www.linkedin.com/in/shakil-ilham/)  
-- ✉️ Email: **mail@ilham.me**
+- ✉️ Email: **ilhamshakil@gmail.com**
 
 ---
 
 ### Fun & Personal Notes
 - Driven by curiosity and creativity — I love building things that make life simpler. ( sometime I take hours to automate works that take minutes )
 - Deeply interested in **exoplanet exploration** and space-AI research.  
-- Serving as **Assistant IT Director** in my **Rotaract Club**.
 
 ---
 
