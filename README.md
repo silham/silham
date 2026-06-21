@@ -25,12 +25,6 @@
 
 ---
 
-## 💡 Fun Fact & Motto
-- Fun fact: I enjoy merging code, circuits, and creativity to make ideas physically come alive.  
-- **Motto:** “Build intelligent systems that make life simpler.”
-
----
-
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
