@@ -130,11 +130,6 @@ An open-source **Medusa JS plugin** for extending product functionality in comme
 
 ---
 
-## 📈 GitHub Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silham\&theme=react-dark)
-
----
-
 ## 🤝 Let's Collaborate
 
 * 🤖 **AI + IoT**
