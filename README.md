@@ -64,8 +64,8 @@
 <details>
 <summary><strong>WP-Fetch</strong> — Headless WordPress data fetching</summary>
 
-* 🔗 **Repo:** https://github.com/Webloom-Labs/wp-fetch
-* 📦 **NPM:** https://www.npmjs.com/package/wp-fetch
+* 🔗 **Repo:** [https://github.com/webloomlabs/wp-fetch](https://github.com/webloomlabs/wp-fetch)
+* 📦 **NPM:** [https://www.npmjs.com/package/wp-fetch](https://www.npmjs.com/package/wp-fetch)
 * 🧠 **Description:** A developer-focused package for fetching and working with WordPress data in modern headless applications, particularly Next.js projects.
 * 🛠 **Tech Stack:** JavaScript, WordPress REST API, Next.js
 
@@ -74,8 +74,8 @@
 <details>
 <summary><strong>Medusa Product Features</strong> — Product feature management for Medusa</summary>
 
-* 🔗 **Repo:** https://github.com/Webloom-Labs/product-features
-* 📦 **NPM:** https://www.npmjs.com/package/@webloomlabs/product-features
+* 🔗 **Repo:** [https://github.com/Webloom-Labs/product-features](https://github.com/webloomlabs/medusa-product-features)
+* 📦 **NPM:** [https://www.npmjs.com/package/@webloomlabs/product-features](https://www.npmjs.com/package/@webloomlabs/product-features)
 * 🧠 **Description:** A Medusa JS plugin that extends product management with customizable product features, designed for modern commerce applications.
 * 🛠 **Tech Stack:** TypeScript, Medusa JS, Node.js
 
@@ -84,7 +84,7 @@
 <details>
 <summary><strong>WhatsApp Web AI Assistant</strong> — Conversational automation via AI</summary>
 
-* 🔗 **Repo:** https://github.com/silham/WhatsApp-Web-AI-Assistant
+* 🔗 **Repo:** [https://github.com/silham/WhatsApp-Web-AI-Assistant](https://github.com/silham/WhatsApp-Web-AI-Assistant)
 * 🧠 **Description:** A Python-based assistant that connects OpenAI capabilities with WhatsApp Web, enabling conversational AI, task automation, and smart message handling directly from WhatsApp.
 * 🛠 **Tech Stack:** Python, Selenium, OpenAI API, Automation Frameworks
 
@@ -93,7 +93,7 @@
 <details>
 <summary><strong>AI Web Scraper</strong> — Intelligent data extraction with AI</summary>
 
-* 🔗 **Repo:** https://github.com/silham/ai-web-scraper
+* 🔗 **Repo:** [https://github.com/silham/ai-web-scraper](https://github.com/silham/ai-web-scraper)
 * 🧠 **Description:** An AI-driven web scraper that extracts and summarizes website data using natural language understanding, useful for research and data aggregation.
 * 🛠 **Tech Stack:** Node.js, Puppeteer, OpenAI API, Cheerio
 
