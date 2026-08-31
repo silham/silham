@@ -54,7 +54,7 @@
 <details>
 <summary><strong>Uptime Cairn</strong> — Open-source uptime monitoring</summary>
 
-* 🔗 **Repo:** https://github.com/uptimecairn/uptimecairn
+* 🔗 **Repo:** https://github.com/webloomlabs/uptimecairn
 * 🌐 **Website:** https://uptimecairn.dev
 * 🧠 **Description:** An open-source uptime monitoring platform focused on giving developers complete control over their monitoring infrastructure without locking essential features behind a paywall.
 * 🛠 **Focus:** Uptime monitoring, distributed probes, self-hosting, developer infrastructure
