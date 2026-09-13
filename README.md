@@ -130,33 +130,9 @@ An open-source **Medusa JS plugin** for extending product functionality in comme
 
 ---
 
-## 🤝 Let's Collaborate
-
-* 🤖 **AI + IoT**
-* 🌐 **Web Engineering**
-* ⚙️ **Developer Tools & Automation**
-* 🔓 **Open Source**
-* 🧠 **AI-powered Applications**
-* 🚀 **Experimental / Research Projects**
-
-I'm open to collaborating on interesting projects, open-source initiatives, and community-driven technology.
-
 📬 **Reach me at:**
 
 * 🌐 Portfolio: [silham.dev](https://silham.dev)
 * 💼 LinkedIn: [Shakil Ilham](https://www.linkedin.com/in/shakil-ilham/)
 * ✉️ Email: **[ilhamshakil@gmail.com](mailto:ilhamshakil@gmail.com)**
 
----
-
-### 🧠 A Little More About Me
-
-* Driven by curiosity and creativity — I sometimes spend hours automating something that would have taken minutes. 😄
-* 🌌 Deeply interested in **exoplanet exploration, space technology, and AI research**.
-* 🔧 I enjoy moving between software, infrastructure, AI, and hardware rather than staying inside a single technology stack.
-
----
-
-> **Build intelligent systems that make life simpler.**
-
-Thanks for visiting — let's build something remarkable. 🚀
